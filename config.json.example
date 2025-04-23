@@ -1,0 +1,10 @@
+{
+  "token": "TOKEN",
+  "adminChannelId": "ID_CHANNEL",
+  "whitelistRoleName": "Whitelisted",
+  "serverIp": "your.minecraft-server.com",
+  "minecraftWhitelistPath": "./whitelist.json",
+  "useMinecraftCommand": true,
+  "minecraftScreenName": "minecraft",
+  "staffRoleId": "YOUR_STAFF_ROLE_ID_HERE",
+}
